@@ -5,6 +5,7 @@ Build a cross-platform barcode reader app with PowerShell scripts on **Windows**
 - [CMake](https://cmake.org/download/)
 - [Dynamsoft Barcode Reader](https://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx)
 - [PowerShell](https://github.com/PowerShell/PowerShell)
+- [Git](https://git-scm.com/downloads)
 
 ## How Does the Script Work
 1. Select your operating system.
